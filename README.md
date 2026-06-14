@@ -103,3 +103,126 @@ Backend Developer passionate about building **scalable, secure, and production-r
 <p align="center">
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/Bcrypt.js-374151?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Security & Validation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript&theme=dark"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Class_Validator-7c3aed?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Password_Hashing-374151?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Authorization_Middleware-dc2626?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Social Media API
+**RESTful Backend · Node.js · Express · MongoDB**
+
+Core backend for a modern social networking platform with full user and content management.
+
+- 🔐 JWT Authentication & Authorization
+- 👤 User Profile & Post Management
+- ❤️ Like, Comment, Follow / Unfollow
+- 🏗️ Clean REST Architecture · Mongoose
+- 🔗 [GitHub Repo](https://github.com/Mahetab21/social-media-app)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Saraha App API
+**Anonymous Messaging · Node.js · Express · MongoDB**
+
+Secure anonymous messaging backend inspired by Saraha, with full auth and message management.
+
+- 🔐 JWT Auth · Bcrypt Password Hashing
+- 📨 Send & Retrieve Anonymous Messages
+- 🛡️ Protected Routes & Authorization Middleware
+- 🏗️ RESTful Architecture · Mongoose
+- 🔗 [GitHub Repo](https://github.com/Mahetab21/saraha-app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce API
+**Production-Ready · NestJS · TypeScript · MongoDB**
+
+Robust e-commerce backend with role-based access, product management, cart, and orders.
+
+- 🔐 JWT Auth · Admin & User RBAC
+- 🛍️ Products, Categories, Brands, Cart, Wishlist
+- 📦 Order Management & Processing
+- 🏗️ Modular NestJS · Class Validator · Mongoose
+- 🔗 [GitHub Repo](https://github.com/Mahetab21/E-Commerce-App)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Jobify API
+**Job Recruitment Platform · Node.js · Express · MongoDB**
+
+Scalable job portal backend enabling companies to post jobs and users to apply seamlessly.
+
+- 🔐 JWT Auth · Company & User RBAC
+- 🏢 Company Profiles & Job Posting
+- 🔍 Job Search, Filtering & Applications
+- 🏗️ RESTful Architecture · Bcrypt · Mongoose
+- 🔗 [GitHub Repo](https://github.com/Mahetab21/jopify)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Explore All Projects](https://img.shields.io/badge/✨_Explore_All_Projects-065f46?style=for-the-badge&logo=github&logoColor=6ee7b7)](https://github.com/Mahetab21?tab=repositories)
+
+</div>
+
+---
+
+## 🎓 Training & Experience
+
+<div align="center">
+
+| 🗓️ Period | 📚 Program | 🏢 Provider |
+|:---:|:---:|:---:|
+| 2024 | Node.js Backend Development | **Route Academy** |
+
+</div>
+
+---
+
+## 🧩 Competitive Programming
+
+<p align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-065f46?style=for-the-badge&logo=leetcode&logoColor=6ee7b7)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-047857?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+
+</p>
+
+**Focus Areas:** `Data Structures & Algorithms` · `Problem Solving` · `Backend System Design`
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a0a,50:1a0a0a,100:0d1117&height=120&section=footer&text=Let's+build+something+that+scales+🚀&fontSize=18&fontColor=f87171&fontAlignY=65&animation=fadeIn"/>
+
+</div>
