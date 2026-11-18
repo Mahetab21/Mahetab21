@@ -1,72 +1,70 @@
-# Mahitab Ayman
+<p align="center">
+<img src="assets/hero.svg" width="100%" alt="Mahitab Ayman — Backend Developer. Node.js, Express.js and NestJS."/>
+</p>
 
-**Backend Developer | Node.js, Express.js & NestJS**
+<p align="center">
+I build backend APIs for commerce, recruitment and social applications.<br/>
+<strong>TypeScript, MongoDB and real-time messaging — with clear documentation and automated tests.</strong>
+</p>
 
-I'm a backend developer based in Egypt, building APIs with TypeScript and MongoDB. My projects cover e-commerce, recruitment and social networking, with a focus on authentication, access control, database workflows and automated testing.
+<p align="center">
+<a href="https://www.linkedin.com/in/mahitab-ayman-6848b0383/"><img src="assets/linkedin.svg" height="38" alt="Connect on LinkedIn"/></a>
+&nbsp;
+<a href="mailto:mahitabayman80@gmail.com"><img src="assets/email.svg" height="38" alt="Email Mahitab"/></a>
+</p>
 
-Open to **junior backend developer opportunities**.
+<p align="center"><sub>Based in Egypt · Open to junior backend developer opportunities</sub></p>
 
-[LinkedIn](https://www.linkedin.com/in/mahitab-ayman-6848b0383/) · [Email](mailto:mahitabayman80@gmail.com) · [All repositories](https://github.com/Mahetab21?tab=repositories)
+## Featured work
 
-## Selected projects
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/Mahetab21/E-Commerce-App"><img src="assets/commerce.svg" width="100%" alt="E-Commerce API"/></a>
+<p>Commerce workflows with NestJS and MongoDB.</p>
+<ul><li>Transactional stock &amp; coupons</li><li>Stripe Checkout &amp; webhooks</li><li>Order and payment regression tests</li></ul>
+<p><a href="https://github.com/Mahetab21/E-Commerce-App"><strong>Code ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/Mahetab21/E-Commerce-App/blob/main/docs/API.md">API guide</a></p>
+<a href="https://github.com/Mahetab21/E-Commerce-App/actions/workflows/ci.yml"><img src="https://github.com/Mahetab21/E-Commerce-App/actions/workflows/ci.yml/badge.svg" alt="E-Commerce build and tests"/></a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Mahetab21/jopify"><img src="assets/jobify.svg" width="100%" alt="Jobify API"/></a>
+<p>Recruitment APIs for job seekers and employers.</p>
+<ul><li>Job search &amp; applications</li><li>Resume uploads &amp; access control</li><li>Persistent Socket.IO messaging</li></ul>
+<p><a href="https://github.com/Mahetab21/jopify"><strong>Code ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/Mahetab21/jopify/blob/main/docs/API.md">API guide</a></p>
+<a href="https://github.com/Mahetab21/jopify/actions/workflows/ci.yml"><img src="https://github.com/Mahetab21/jopify/actions/workflows/ci.yml/badge.svg" alt="Jobify build and tests"/></a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Mahetab21/social-media-app"><img src="assets/social.svg" width="100%" alt="Social Media API"/></a>
+<p>Social features with REST, GraphQL and real-time chat.</p>
+<ul><li>Public, private &amp; friends-only posts</li><li>Friend requests &amp; blocking</li><li>Authenticated direct &amp; group chat</li></ul>
+<p><a href="https://github.com/Mahetab21/social-media-app"><strong>Code ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/Mahetab21/social-media-app/blob/main/docs/API.md">API guide</a></p>
+<a href="https://github.com/Mahetab21/social-media-app/actions/workflows/ci.yml"><img src="https://github.com/Mahetab21/social-media-app/actions/workflows/ci.yml/badge.svg" alt="Social Media build and tests"/></a>
+</td>
+</tr>
+</table>
 
-### E-Commerce API
-**NestJS · TypeScript · MongoDB · Stripe · AWS S3**
+<p align="right"><a href="https://github.com/Mahetab21?tab=repositories">Explore all repositories →</a></p>
 
-A modular commerce backend for product catalogs, shopping carts, coupons and orders.
+## My toolkit
 
-- MongoDB transactions for stock reservation, coupon redemption and cart clearing.
-- Stripe Checkout, verified payment webhooks, and cancellation/refund handling.
-- Role guards, owner-scoped carts, DTO validation and regression tests for concurrent orders and payment events.
+<p><img src="assets/stack.svg" width="100%" alt="Node.js, Express.js, NestJS, TypeScript, MongoDB, Socket.IO, GraphQL and AWS S3"/></p>
 
-[Source code](https://github.com/Mahetab21/E-Commerce-App) · [API guide](https://github.com/Mahetab21/E-Commerce-App/blob/main/docs/API.md) · [Build and tests](https://github.com/Mahetab21/E-Commerce-App/actions/workflows/ci.yml)
-
-[![E-Commerce CI](https://github.com/Mahetab21/E-Commerce-App/actions/workflows/ci.yml/badge.svg)](https://github.com/Mahetab21/E-Commerce-App/actions/workflows/ci.yml)
-
-### Jobify Recruitment API
-**Express.js · TypeScript · MongoDB · Socket.IO · AWS S3**
-
-A recruitment backend connecting job seekers and employers.
-
-- Job search, filters, saved jobs, resume submission and application status management.
-- JWT authentication, email verification, and role and ownership checks.
-- Persistent messaging with typing indicators and read receipts, plus API and Socket.IO regression tests.
-
-[Source code](https://github.com/Mahetab21/jopify) · [API guide](https://github.com/Mahetab21/jopify/blob/main/docs/API.md) · [Postman collection](https://github.com/Mahetab21/jopify/blob/main/docs/Jobify.postman_collection.json)
-
-[![Jobify CI](https://github.com/Mahetab21/jopify/actions/workflows/ci.yml/badge.svg)](https://github.com/Mahetab21/jopify/actions/workflows/ci.yml)
-
-### Social Media API
-**Express.js · TypeScript · MongoDB · Socket.IO · GraphQL · AWS S3**
-
-A social backend with posts, threaded comments, friendships and direct/group messaging.
-
-- Public, private and friends-only content with consistent access rules across REST and GraphQL.
-- Friend requests, blocking, authenticated socket events and participant authorization.
-- Rotating refresh tokens, expiring email codes, OpenAPI documentation and automated HTTP/database/socket tests.
-
-[Source code](https://github.com/Mahetab21/social-media-app) · [API guide](https://github.com/Mahetab21/social-media-app/blob/main/docs/API.md) · [Build and tests](https://github.com/Mahetab21/social-media-app/actions/workflows/ci.yml)
-
-[![Social Media CI](https://github.com/Mahetab21/social-media-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Mahetab21/social-media-app/actions/workflows/ci.yml)
-
-## Technical skills
-
-| Area | Technologies |
+| Focus | Tools & practices |
 | --- | --- |
-| Languages | JavaScript, TypeScript, SQL |
-| Backend | Node.js, Express.js, NestJS, REST APIs, GraphQL, Socket.IO |
-| Data | MongoDB, Mongoose, MySQL |
-| Authentication and validation | JWT, Google sign-in, bcrypt, Zod, class-validator |
-| Integrations | AWS S3, Stripe Checkout, Nodemailer |
-| Testing and tooling | Jest, Supertest, Node.js test runner, Git, GitHub Actions, Postman, OpenAPI/Swagger |
+| APIs & authentication | REST, JWT, Google sign-in, bcrypt, Zod, class-validator |
+| Data & integrations | Mongoose, MySQL, Stripe Checkout, Nodemailer |
+| Testing & delivery | Jest, Supertest, Node.js test runner, GitHub Actions |
+| Documentation & workflow | OpenAPI/Swagger, Postman, Git |
 
-## Education and training
+## A little about me
 
-- **BSc in Computer Science**, Higher Technological Institute — 2022–2026.
-- **Backend Development Training**, Route IT Training Center — February–September 2025.
-- **Backend Node.js Diploma**, Route IT Training Center — October 2025.
+- **Computer Science** · Higher Technological Institute, 2022–2026.
+- **Backend training** · Route IT Training Center, February–September 2025; Node.js Diploma, October 2025.
+- **Community** · Problem Solving Mentor at ICPC HTI, 2023–2024 — practice sessions, mentoring and code reviews.
 
-## Community
+---
 
-**Problem Solving Mentor · ICPC HTI Community · 2023–2024**  
-Mentored students, delivered practice sessions and reviewed code.
+<p align="center">
+<strong>Have a backend role or a project in mind?</strong><br/>
+<a href="mailto:mahitabayman80@gmail.com">mahitabayman80@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mahitab-ayman-6848b0383/">LinkedIn</a>
+</p>

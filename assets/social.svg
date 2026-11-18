@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="118" viewBox="0 0 360 118" role="img">
+<title>Social Media backend API</title>
+<rect x="1" y="1" width="358" height="116" rx="12" fill="#111C2B" stroke="#293C51"/>
+<rect x="1" y="1" width="5" height="116" rx="2" fill="#F9C483"/>
+<text x="24" y="32" fill="#F9C483" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">PROJECT 03</text>
+<text x="23" y="68" fill="#F4F8FC" font-family="Arial,sans-serif" font-size="27" font-weight="700">Social Media</text>
+<text x="24" y="96" fill="#9CB0C6" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">CONTENT / FRIENDSHIPS / CHAT</text>
+<circle cx="325" cy="32" r="11" fill="#F9C483" opacity=".12"/>
+<path d="M320 37L330 27M321 27H330V36" fill="none" stroke="#F9C483" stroke-width="1.6"/></svg>
